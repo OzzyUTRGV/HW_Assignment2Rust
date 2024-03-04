@@ -1,0 +1,1 @@
+/workspaces/HW_Assignment2Rust/assignments/twostructenumpattern/target/debug/twostructenumpattern: /workspaces/HW_Assignment2Rust/assignments/twostructenumpattern/main.rs /workspaces/HW_Assignment2Rust/assignments/twostructenumpattern/structenum.rs
